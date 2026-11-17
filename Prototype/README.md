@@ -2,63 +2,80 @@
 
 ### Interactive Product Prototype | Figma Make
 
-\<p align="center">   \<strong>Beyond shopping. Towards a smarter fashion lifestyle.\</strong> \</p>
+*Beyond shopping. Towards a smarter fashion lifestyle.*
 
 ---
 
-## 🚀 Explore the Prototype
+## 🚀 Explore the Live Prototype
 
-An interactive conceptual prototype exploring how Myntra can extend its traditional shopping experience into a connected fashion lifestyle ecosystem.
+Experience the interactive six-screen Myntra concept:
 
-\<p align="center">   \<a href="[https://weight-petri-82074265.figma.site/](https://weight-petri-82074265.figma.site/)">     \<strong>🌐 LAUNCH LIVE PROTOTYPE\</strong>   \</a> \</p>
+### [🌐 LAUNCH LIVE PROTOTYPE](https://weight-petri-82074265.figma.site/)
 
-**Platform:** Figma Make
-**Project Type:** Product Management & UI/UX Prototyping
-**Screens:** 6 interconnected screens
+| Project Detail | Information |
+|---|---|
+| Project | Myntra – Beyond Shopping |
+| Platform | Figma Make |
+| Project Type | Product Management & UI/UX Prototyping |
+| Screens | 6 |
+| Status | Published Interactive Prototype |
 
 ---
 
 ## 📱 Explore the Six Experiences
 
-| Feature       | Description                                                                 |
-| ------------- | --------------------------------------------------------------------------- |
-| 🏠 Home       | Central dashboard for discovering fashion features and recommendations.     |
-| 🧵 Fabric     | Explore material composition, comfort, weather suitability and fabric care. |
-| 👥 SquadCart  | Collaborate with friends through shared shortlists and product voting.      |
-| 🧺 CareMate   | Access garment maintenance, washing instructions and care reminders.        |
-| 💚 ValueMeter | Evaluate product value through ratings and cost-per-wear insights.          |
-| 🧳 PackSmart  | Plan travel outfits and organise packing checklists.                        |
+| Feature | Description |
+|---|---|
+| 🏠 **Home** | Central dashboard for discovering fashion features and recommendations. |
+| 🧵 **Fabric** | Explore material composition, comfort, weather suitability and fabric care. |
+| 👥 **SquadCart** | Collaborate with friends through shared shortlists and product voting. |
+| 🧺 **CareMate** | Access garment maintenance, washing instructions and care reminders. |
+| 💚 **ValueMeter** | Evaluate product value through ratings and cost-per-wear insights. |
+| 🧳 **PackSmart** | Plan travel outfits and organise packing checklists. |
 
 ---
 
-## 🎯 Prototype Objectives
+## 🎯 Project Objectives
 
-- Explore a fashion experience beyond conventional shopping.
+- Extend the fashion experience beyond conventional shopping.
 - Simplify customer decision-making.
-- Encourage collaborative shopping.
+- Encourage collaborative shopping experiences.
 - Support post-purchase garment care.
 - Promote informed purchase evaluation.
 - Improve travel outfit and packing preparation.
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tools & Skills
 
 - Figma Make
 - UI/UX Design
 - Interactive Prototyping
 - Product Thinking
+- Feature Ideation
+- User Experience Design
 
 ---
 
 ## 📌 Project Status
 
-The six-screen interactive concept has been created and published using Figma Make.
+The six-screen conceptual product experience has been created and published using Figma Make.
 
-Further opportunities include usability testing, feature validation, backend integration and product refinement.
+**Future Scope:**
+- Usability testing and user feedback.
+- Feature validation and refinement.
+- Backend and product catalogue integration.
+- Personalised recommendations.
+- Advanced product functionality.
 
 ---
 
-\<p align="center">   \<strong>Myntra – Beyond Shopping\</strong>\<br>   \<em>An independent conceptual Product Management project.\</em> \</p>
+### About This Project
 
-\<p align="center">   \<a href="[https://weight-petri-82074265.figma.site/](https://weight-petri-82074265.figma.site/)">View Live Prototype ↗\</a> \</p>
+Myntra – Beyond Shopping is an independent conceptual Product Management project exploring opportunities to create a more connected fashion lifestyle experience.
+
+*This is an independent concept and is not an official Myntra product or affiliated initiative.*
+
+---
+
+**[🌐 Explore the Live Prototype](https://weight-petri-82074265.figma.site/)**
